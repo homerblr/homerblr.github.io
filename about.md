@@ -18,8 +18,5 @@ After leaving the service for understandable reasons in the fall of 2020,  I beg
 You can download [it's here](https://mkisliy.me/images/MikhailKislyCV.pdf)
 
 
-<object data="https://mkisliy.me/images/MikhailKislyCV.pdf" type="application/pdf" width=100% height=100%>
-    <embed src="https://mkisliy.me/images/MikhailKislyCV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://mkisliy.me/images/MikhailKislyCV.pdf" width="500" height="375">
