@@ -6,9 +6,7 @@ title: Cinema Journal
 
 # Project Bio
 
-Project planned with bussiness approach in mind, love to details and applying best practises.
-
-You can look for sources at [GitHub](https://github.com/homerblr/Cinema-Journal)
+Project planned with bussiness approach in mind, love to details and applying best practises
 
 ## Bussiness-like project
 
