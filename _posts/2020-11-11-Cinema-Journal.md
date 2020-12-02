@@ -15,7 +15,7 @@ All project planned by external experienced iOS Team Lead with board-based tasks
 ![_config.yml]({{ site.baseurl }}/images/project.png)
 ![_config.yml]({{ site.baseurl }}/images/zeplin.png)
 
-## (Type-Safe API)[https://github.com/homerblr/Cinema-Journal/blob/main/Cinema%20Journal/Model/API.swift]
+## [Type-Safe API](https://github.com/homerblr/Cinema-Journal/blob/main/Cinema%20Journal/Model/API.swift)
 
 ![_config.yml]({{ site.baseurl }}/images/typesafe_api.png)
 
