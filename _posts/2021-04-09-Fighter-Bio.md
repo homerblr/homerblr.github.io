@@ -18,6 +18,8 @@ The biggest struggle was to enroll to Apple Developer program. Turns out that Ap
 
 That was a tip of a problem, because later i've met Apple App Store review team. After a week of battle, and continuously renaming the application, the App is finally published to App store.
 
+![_config.yml]({{ site.baseurl }}/images/storeReview.gif)
+
 The project was made in partnership with Darya - UX/UI designer.  &#128536;
 
 ![_config.yml]({{ site.baseurl }}/images/mockup_2.png)
