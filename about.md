@@ -9,15 +9,15 @@ Self-educated developer with bacherlor's degree at Law.
 Currently facing challenges @ITRexGroup
 
 Technologies:
-Swift
-UIKit, AVKit
-Git, CocoaPods
-MVC, MVVM
-RESTful API
-StoreKit
-Firebase (Realtime Database, Remote config, Analytics, Crashlytics)
-Google AdMob
-Zeplin, Figma, Sketch
+* Swift
+* UIKit, AVKit
+* Git, CocoaPods
+* MVC, MVVM
+* RESTful API
+* StoreKit
+* Firebase (Realtime Database, Remote config, Analytics, Crashlytics)
+* Google AdMob
+* Zeplin, Figma, Sketch
 
 ### Contact me
 
