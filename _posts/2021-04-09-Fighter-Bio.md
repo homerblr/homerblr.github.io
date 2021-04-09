@@ -31,3 +31,5 @@ The project was made in partnership with Darya - UX/UI designer.  :kissing_heart
 
 
 ## [Check it out by yourself, it's free! :kissing_heart:](https://apps.apple.com/us/app/fighters-bio/id1560835318)
+
+![_config.yml]({{ site.baseurl }}/images/gifForMK.gif)
