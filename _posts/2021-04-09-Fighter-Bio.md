@@ -12,7 +12,7 @@ So basically the idea was to practice knowledge in MVVM, Firebase, StoreKit, AVK
 
 ![_config.yml]({{ site.baseurl }}/images/xcodeFiles.png)
 
-JavaScript Object Notation file U+1F913 is stored in Firebase realtime database. The .json file contains each fighter's name, description, weaknesses and strengths, URL's to images and videos ID's. Also app implemented with Firebase Remote config, Analytics and Crashlytics.
+JavaScript Object Notation file &#129299; is stored in Firebase realtime database. The .json file contains each fighter's name, description, weaknesses and strengths, URL's to images and videos ID's. Also app implemented with Firebase Remote config, Analytics and Crashlytics.
 There is non-consumable purchase that disables in-app advertisement (provided by Google AdMob).
 The biggest struggle was to enroll to Apple Developer program. Turns out that Apple is a bit too dangerous proceeding payments from CIS citizens. The challenge was to proof that your credit card has enough money and able to proceed payments, proof your identity and make a call to Apple Developer Programm Support.
 
