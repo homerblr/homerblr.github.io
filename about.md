@@ -12,7 +12,7 @@ Technologies:
 Swift
 UIKit, AVKit
 Git, CocoaPods
-MVC, MVVM, VIPER
+MVC, MVVM
 RESTful API
 StoreKit
 Firebase (Realtime Database, Remote config, Analytics, Crashlytics)
