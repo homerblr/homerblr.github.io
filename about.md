@@ -8,7 +8,7 @@ iOS Developer borned and raised in Minsk, Belarus.
 Self-educated developer with bacherlor's degree at Law.
 Currently facing challenges [@ITRexGroup](https://itrexgroup.com)
 
-Technologies:
+### Technologies:
 * Swift
 * UIKit, AVKit
 * Git, CocoaPods
