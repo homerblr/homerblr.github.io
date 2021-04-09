@@ -18,7 +18,7 @@ The biggest struggle was to enroll to Apple Developer program. Turns out that Ap
 
 That was a tip of a problem, because later i've met Apple App Store review team. After a week of battle, and continuously renaming the application, the App is finally published to App store.
 
-The project was made in partnership with Darya - UX/UI designer.  :kissing_heart:
+The project was made in partnership with Darya - UX/UI designer.  &#128536;
 
 ![_config.yml]({{ site.baseurl }}/images/mockup_2.png)
 
@@ -30,6 +30,6 @@ The project was made in partnership with Darya - UX/UI designer.  :kissing_heart
 * GoogleMobileAds
 
 
-## [Check it out by yourself, it's free! :kissing_heart:](https://apps.apple.com/us/app/fighters-bio/id1560835318)
+## [Check it out by yourself, it's free! &#128579;](https://apps.apple.com/us/app/fighters-bio/id1560835318)
 
 ![_config.yml]({{ site.baseurl }}/images/gifForMK.gif)
