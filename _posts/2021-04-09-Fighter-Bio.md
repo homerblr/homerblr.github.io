@@ -12,7 +12,7 @@ So basically the idea was to practice knowledge in MVVM, Firebase, StoreKit, AVK
 
 ## Development
 
-![_config.yml]({{ site.baseurl }}/images/filesInProject.jpg)
+![_config.yml]({{ site.baseurl }}/images/filesInProject1.png)
 
 `JavaScript Object Notation` file &#129299; is stored in Firebase realtime database. The .json file contains each fighter's name, description, weaknesses and strengths, URL's to images and videos ID's. Also app implemented with Firebase Remote config, Analytics and Crashlytics.
 There is non-consumable purchase that disables in-app advertisement (provided by Google AdMob).
