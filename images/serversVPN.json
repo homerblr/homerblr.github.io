@@ -3,7 +3,7 @@
      "hostname": "159.65.189.118",
      "isFree": true,
      "countryCode": "US",
-     "location": "NewYork",
+     "location": "New York",
      "country": "United States",
      "name": "server1",
      "serverID": 1,
@@ -25,7 +25,7 @@
   },
   {
      "hostname": "139.162.162.93",
-     "isFree": true,
+     "isFree": false,
      "countryCode": "DE",
      "location": "Frankfurt",
      "country": "Germany",
@@ -97,7 +97,7 @@
   },
     {
      "hostname": "45.33.39.97",
-     "isFree": true,
+     "isFree": false,
      "countryCode": "US",
      "location": "Fremont",
      "country": "Syazan",
